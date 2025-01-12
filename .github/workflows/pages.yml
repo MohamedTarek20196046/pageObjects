@@ -13,7 +13,7 @@ jobs:
     strategy:
       matrix:
         # Use stable Node.js versions
-        node-version: [ 16.x, 18.x, 20.x ]
+        node-version: [ 20.x ]
         # Add more versions if needed
 
     steps:
