@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "npx nightwatch "
+    "test": "npx nightwatch ./test --headless"
   },
   "keywords": [],
   "author": "",
